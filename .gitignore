@@ -1,0 +1,4 @@
+# personal settings, contain an app password
+nc-env.local.sh
+# Python cache from nc-fix.py loading nc-compare.py
+__pycache__/
